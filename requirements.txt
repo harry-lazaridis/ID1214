@@ -4,6 +4,6 @@ gym_super_mario_bros==9.1.0
 gymnasium==1.4.0
 nes_py==9.0.1
 numpy==2.5.5
-pyglet==1.5.21
+pyglet==1.5.31  # originally 1.5.21 pin; upgraded to work for Python 3.13+ on Windows
 tqdm==4.70.1
 typing_extensions==4.16.0
